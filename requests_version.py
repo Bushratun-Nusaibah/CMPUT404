@@ -1,7 +1,9 @@
 import requests 
 
+#this is for the first part of the lab exercise  
 #print (requests.__version__)
 
+#this was for question 5 of the lab 
 #res = requests.get("http://www.google.com/")
 #print(res)
 
